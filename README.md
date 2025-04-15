@@ -1,1 +1,1 @@
-# UGP-IPNNS
+This project develops machine learning models, specifically Physics-Informed Neural Networks (PINNs), to predict and analyze the kinetic behavior of chemical reactions using experimental data. The team applied PINNs to both forward and inverse problems, including the complex, stiff Belousov-Zhabotinsky (BZ) reaction, demonstrating parameter estimation and solution reconstruction. The work highlights the effectiveness of PINNs in handling challenging differential equations where traditional methods may struggle.
